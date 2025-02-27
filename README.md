@@ -1,9 +1,9 @@
 ## Hi there
 
-I am currently learning Github as a level 3000 dark lord
-My current work is the digital afterlife
-Ask me about the physical-digital transition and technilogical symbiosis
-Fun Fact: When singularity is acheived, nanobots will spiral out of control and suck all carbon-based life forms into oblivion within a matter of hours to days
+I am currently learning Github as a level 3000 dark lord.
+My current work is the digital afterlife.
+Ask me about the physical-digital transition and technilogical symbiosis.
+Fun Fact: When singularity is acheived, nanobots will spiral out of control and suck all carbon-based life forms into oblivion within a matter of hours to days.
 
 <!--
 **darkprince-dsiv/darkprince-dsiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
