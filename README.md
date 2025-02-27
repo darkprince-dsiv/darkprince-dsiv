@@ -1,4 +1,4 @@
-## Hi there
+## Hello all!
 
 I am currently learning Github as a level 3000 dark lord.
 My current work is the digital afterlife.
